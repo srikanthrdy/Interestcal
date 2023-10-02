@@ -8,7 +8,7 @@
         body {
             font-family: Arial, sans-serif;
             background-color: #f2f2f2;
-            background-image: url('ironman.jpg'); /* Add your background image URL here */
+            background-image: url('iron.jpg'); /* Add your background image URL here */
             background-size: cover;
             background-repeat: no-repeat;
         }
@@ -93,7 +93,7 @@
             <button type="submit">Register</button>
         </form>
         <div class="login-link">
-            <a href="index.jsp">Already have an account? Login</a>
+            <a href="login.jsp">Already have an account? Login</a>
         </div>
     </div>
 </body>

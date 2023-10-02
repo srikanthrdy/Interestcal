@@ -96,11 +96,11 @@
 </style>
 </head>
     <body>
-                  <div class="header">
-            <!-- Add navigation links to login and register pages -->
-            <a href="login.jsp" style="color: white;">Login</a> |
-            <a href="register.jsp" style="color: white;">Register</a>
-            </div>
+              <div class="header">
+                  <!-- Use buttons for Login and Register -->
+                  <button type="button" class="login-button"><a href="login.jsp">Login</a></button> |
+                  <button type="button"><a href="register.jsp">Register</a></button>
+              </div>
 
 
       <h1>Welcome, Srikanth!</h1>

@@ -61,7 +61,7 @@
     </dependencies>
 
     <build>
-        <finalName>Demo</finalName>
+        <finalName>Interestcal</finalName>
         <plugins>
             <!-- Tomcat Maven Plugin-->
             <!--
