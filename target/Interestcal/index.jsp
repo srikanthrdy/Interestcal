@@ -55,6 +55,7 @@
                  border-radius: 20px;
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
                  text-align: center; /* Align text to center */
+                 height: 400px;
              }
 
              .section-right {
@@ -67,6 +68,7 @@
                  border-radius: 20px;
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
                  text-align: center; /* Align text to center */
+                 height: 400px;
              }
 
 
@@ -96,11 +98,11 @@
 </style>
 </head>
     <body>
-              <div class="header">
-                  <!-- Use buttons for Login and Register -->
-                  <button type="button" class="login-button"><a href="login.jsp">Login</a></button> |
-                  <button type="button"><a href="register.jsp">Register</a></button>
-              </div>
+                  <div class="header">
+            <!-- Add navigation links to login and register pages -->
+            <a href="login.jsp" style="color: white;">Login</a> |
+            <a href="register.jsp" style="color: white;">Register</a>
+            </div>
 
 
       <h1>Welcome, Srikanth!</h1>
