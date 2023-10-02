@@ -55,6 +55,7 @@
                  border-radius: 20px;
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
                  text-align: center; /* Align text to center */
+                 height: 400px;
              }
 
              .section-right {
@@ -67,6 +68,7 @@
                  border-radius: 20px;
                  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
                  text-align: center; /* Align text to center */
+                 height: 400px;
              }
 
 
